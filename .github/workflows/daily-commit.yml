@@ -19,7 +19,7 @@ jobs:
       - name: Random commits
         run: |
           git config user.name "JeyoungJung"
-          git config user.email "70983545+JeyoungJung@users.noreply.github.com"
+          git config user.email "j74jung@uwaterloo.ca"
           COMMIT_COUNT=$((RANDOM % 6))
           echo "Making $COMMIT_COUNT commit(s) today"
           if [ "$COMMIT_COUNT" -eq 0 ]; then
