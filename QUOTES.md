@@ -54,3 +54,9 @@
 
 ---
 
+### 2026-04-15 17:53:46 UTC
+
+> Before software can be reusable it first has to be usable. - Ralph Johnson
+
+---
+
