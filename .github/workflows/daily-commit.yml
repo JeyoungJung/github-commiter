@@ -20,8 +20,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          COMMIT_COUNT=$((RANDOM % 5 + 1))
+          COMMIT_COUNT=$((RANDOM % 6))
           echo "Making $COMMIT_COUNT commit(s) today"
+          if [ "$COMMIT_COUNT" -eq 0 ]; then
+            echo "Rest day, no commits"
+            exit 0
+          fi
           for i in $(seq 1 $COMMIT_COUNT); do
             bash commit.sh
             git add -A
