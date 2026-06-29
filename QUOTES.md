@@ -1278,3 +1278,9 @@
 
 ---
 
+### 2026-06-29 13:19:35 UTC
+
+> The best error message is the one that never shows up. - Thomas Fuchs
+
+---
+
