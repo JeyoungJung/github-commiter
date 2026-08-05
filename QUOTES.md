@@ -1830,3 +1830,9 @@
 
 ---
 
+### 2026-08-05 12:31:31 UTC
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Woods
+
+---
+
