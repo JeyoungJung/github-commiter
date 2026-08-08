@@ -1908,3 +1908,9 @@
 
 ---
 
+### 2026-08-08 12:20:51 UTC
+
+> That's the thing about people who think they hate computers. What they really hate is lousy programmers. - Larry Niven
+
+---
+
