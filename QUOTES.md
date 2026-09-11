@@ -2322,3 +2322,9 @@
 
 ---
 
+### 2026-09-11 15:22:38 UTC
+
+> Make it work, make it right, make it fast. - Kent Beck
+
+---
+
