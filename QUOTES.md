@@ -2880,3 +2880,9 @@
 
 ---
 
+### 2026-10-17 14:31:53 UTC
+
+> Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson
+
+---
+
