@@ -3528,3 +3528,9 @@
 
 ---
 
+### 2026-11-14 17:24:27 UTC
+
+> The only way to do great work is to love what you do. - Steve Jobs
+
+---
+
