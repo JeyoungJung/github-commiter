@@ -3444,3 +3444,9 @@
 
 ---
 
+### 2026-11-14 17:24:13 UTC
+
+> That's the thing about people who think they hate computers. What they really hate is lousy programmers. - Larry Niven
+
+---
+
