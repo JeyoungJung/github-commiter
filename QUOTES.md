@@ -3438,3 +3438,9 @@
 
 ---
 
+### 2026-11-14 17:24:12 UTC
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Woods
+
+---
+
