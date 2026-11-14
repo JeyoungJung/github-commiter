@@ -3582,3 +3582,9 @@
 
 ---
 
+### 2026-11-14 17:24:36 UTC
+
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+
+---
+
