@@ -3654,3 +3654,9 @@
 
 ---
 
+### 2026-11-15 18:04:52 UTC
+
+> A language that doesn't affect the way you think about programming is not worth knowing. - Alan Perlis
+
+---
+
