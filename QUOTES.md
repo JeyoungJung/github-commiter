@@ -4164,3 +4164,9 @@
 
 ---
 
+### 2026-11-19 19:41:00 UTC
+
+> The most disastrous thing that you can ever learn is your first programming language. - Alan Kay
+
+---
+
