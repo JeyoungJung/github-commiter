@@ -4200,3 +4200,9 @@
 
 ---
 
+### 2026-11-20 19:19:12 UTC
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - John Woods
+
+---
+
