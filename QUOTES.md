@@ -4410,3 +4410,9 @@
 
 ---
 
+### 2026-11-22 18:45:27 UTC
+
+> That's the thing about people who think they hate computers. What they really hate is lousy programmers. - Larry Niven
+
+---
+
