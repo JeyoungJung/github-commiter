@@ -4470,3 +4470,9 @@
 
 ---
 
+### 2026-11-23 22:58:45 UTC
+
+> Java is to JavaScript what car is to carpet. - Chris Heilmann
+
+---
+
